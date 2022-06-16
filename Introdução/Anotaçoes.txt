@@ -1,0 +1,5 @@
+Gravar aulas
+
+Realisar a instalação do GIT.
+
+Criar conta no GITHUB
